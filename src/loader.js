@@ -14,7 +14,7 @@ import {
   stringifyLoaders
 }
 from './util'
-import vueLoader from 'weex-vue-loader'
+import vueLoader from 'weex-vue-loader2'
 const loaderPath = __dirname
 const defaultLoaders = {
   none: '',
